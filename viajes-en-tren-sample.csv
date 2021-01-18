@@ -1,0 +1,6 @@
+company,origin,destination,departure,arrival,duration,vehicle_type,vehicle_class,price,fare,seats,meta,insert_date
+2991AADB8BA01C768CFFE9329B46049A,MADRID,LLEIDA,2020-08-20 20:30:00,2020-08-20 22:36:00,2.1,AVE,Turista,74.7,Flexible,,"{'Turista': {'Flexible': {'price': 74.7, 'seats': 313}}, 'Turista Plus': {'Flexible': {'price': 89.6, 'seats': 65}}}",2020-07-09 08:20:44
+2991AADB8BA01C768CFFE9329B46049A,MADRID,TARRAGONA,2020-08-18 07:15:00,2020-08-18 15:10:00,7.92,REG.EXP.,Turista,41.1,Adulto ida,,"{'Turista': {'Adulto ida': {'price': 41.1, 'seats': 209}}}",2020-07-03 16:17:41
+2991AADB8BA01C768CFFE9329B46049A,BARCELONA,MADRID,2020-11-25 09:03:00,2020-11-25 18:07:12,9.07,REG.EXP.,Turista,43.25,Adulto ida,207.0,"{'Turista': {'Adulto ida': {'price': 43.25, 'seats': 207}}}",2020-11-20 12:00:00
+2991AADB8BA01C768CFFE9329B46049A,MADRID,BARCELONA,2020-11-04 07:40:00,2020-11-04 13:55:00,6.25,AVE-LD,Turista con enlace,62.85,Promo +,202.0,"{'Turista con enlace': {'Promo +': {'price': 62.85, 'seats': 202}, 'Flexible': {'price': 96.7, 'seats': 202}}}",2020-10-29 00:00:00
+2991AADB8BA01C768CFFE9329B46049A,CORDOBA,MADRID,2020-07-08 07:29:00,2020-07-08 09:15:00,1.77,AVE,Turista,63.4,Flexible,,"{'Turista': {'Flexible': {'price': 63.4, 'seats': 49}}, 'Turista Plus': {'Flexible': {'price': 76.1, 'seats': 21}}}",2020-07-08 02:51:00
