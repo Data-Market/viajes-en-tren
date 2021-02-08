@@ -23,7 +23,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link]( ).
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/viajes-en-tren/blob/main/viajes-en-tren-sample.csv).
 
 ## Documentación
 
