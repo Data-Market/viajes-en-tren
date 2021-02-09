@@ -11,8 +11,8 @@ Billetes de tren con todo su árbol de precios y plazas disponibles para las __p
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 4h
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: 15.000 registros diarios
+* __Histórico__: desde 2018
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#viajes-en-tren-dataset), plataforma de referencia de datos externos en España. 
 
