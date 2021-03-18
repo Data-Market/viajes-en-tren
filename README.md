@@ -1,7 +1,7 @@
 # Datasets de Viajes en Tren
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/viajes-en-tren-banner.png">
+  <img src="https://datamarket.es/media/banners/viajes-en-tren-banner.png">
 </a>
 
 ## Descripción
