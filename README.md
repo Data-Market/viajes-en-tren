@@ -12,7 +12,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 4h
 * __Volumen estimado__: 15.000 registros diarios
-* __Histórico__: desde 2018
+* __Histórico__: desde 2018 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#viajes-en-tren-dataset), plataforma de referencia de datos externos en España. 
 
